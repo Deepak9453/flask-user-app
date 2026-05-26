@@ -1,10 +1,16 @@
-# Flask User Management App
+# 🚀 Flask User Management App
+
+## 📌 Project Overview
+A simple Flask web application to manage users using a MySQL database with a clean Bootstrap UI.
+
+---
 
 ## 🚀 Setup Instructions
 
-## 1. Clone the repository
-bash
+### 1. Clone the repository
+```bash
 git clone https://github.com/Deepak9453/flask-user-app.git
+cd flask-user-app
 
 2. Install dependencies
 pip install flask
@@ -19,6 +25,8 @@ DB_NAME=users
 
 4. Run application
 python app.py
+
+http://127.0.0.1:5000/
 
 ---
 
