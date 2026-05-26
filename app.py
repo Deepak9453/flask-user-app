@@ -1,3 +1,4 @@
+# Final submission for assignment
 from flask import Flask, request, render_template, jsonify, redirect, url_for
 import mysql.connector
 import os
