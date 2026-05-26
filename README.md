@@ -2,8 +2,8 @@
 
 ## 🚀 Setup Instructions
 
-### 1. Clone the repository
-```bash
+## 1. Clone the repository
+bash
 git clone https://github.com/Deepak9453/flask-user-app.git
 
 2. Install dependencies
